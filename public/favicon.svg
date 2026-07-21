@@ -1,29 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <rect width="512" height="512" rx="102" fill="#ffffff"></rect>
-  <g fill="none" stroke="#12294a" stroke-width="15" stroke-linejoin="round">
-    <path d="M190 70 H366 L420 124 V422 a20 20 0 0 1 -20 20 H190 a20 20 0 0 1 -20 -20 V90 a20 20 0 0 1 20 -20 Z"></path>
-  </g>
-  <path d="M366 70 L420 124 H366 Z" fill="#8fbcf0"></path>
-  <path d="M366 70 L420 124 H366 Z" fill="none" stroke="#12294a" stroke-width="13" stroke-linejoin="round"></path>
-  <g fill="#12294a">
-    <rect x="120" y="150" width="92" height="30" rx="15"></rect>
-    <rect x="120" y="232" width="92" height="30" rx="15"></rect>
-    <rect x="120" y="314" width="92" height="30" rx="15"></rect>
-    <rect x="120" y="396" width="92" height="30" rx="15"></rect>
-  </g>
-  <g fill="#ffffff">
-    <rect x="150" y="157" width="40" height="16" rx="8"></rect>
-    <rect x="150" y="239" width="40" height="16" rx="8"></rect>
-    <rect x="150" y="321" width="40" height="16" rx="8"></rect>
-    <rect x="150" y="403" width="40" height="16" rx="8"></rect>
-  </g>
-  <g fill="#12294a">
-    <rect x="240" y="150" width="128" height="20" rx="10"></rect>
-    <rect x="240" y="192" width="92" height="20" rx="10"></rect>
-  </g>
-  <g fill="none" stroke="#2fbf98" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
-    <polyline points="280,300 240,340 280,380"></polyline>
-    <polyline points="360,300 400,340 360,380"></polyline>
-  </g>
-  <line x1="332" y1="292" x2="308" y2="388" stroke="#12294a" stroke-width="24" stroke-linecap="round"></line>
+<defs></defs>
+<rect width="512" height="512" rx="96" fill="#2337ff"></rect>
+<text x="256" y="377.0" text-anchor="middle" font-weight="700" font-size="369" fill="#fff">d</text>
 </svg>

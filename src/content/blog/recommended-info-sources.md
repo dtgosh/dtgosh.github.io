@@ -1,29 +1,27 @@
 ---
-title: '정보 소스 모음'
+title: '참고하기 좋은 정보 소스 모음'
 description: '참고하기 좋은 정보 소스들을 정리했습니다.'
 pubDate: 'Jul 21 2026'
 heroImage: '../../assets/recommended-info-sources.png'
+updatedDate: 'Jul 26 2026'
 ---
 
-### 통계
+##### 통계
 
 - [네이버 데이터랩](https://datalab.naver.com)
 - [Google Trends](https://trends.google.co.kr)
 - [npm trends](https://npmtrends.com)
 - [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co)
 
----
-
-### 뉴스
+##### 뉴스
 
 - [GeekNews](https://news.hada.io)
 - [Hacker News](https://news.ycombinator.com)
 
----
-
-### 블로그 
+##### 블로그 
 
 - [기억보단 기록을](https://jojoldu.tistory.com)
+- [김태호님 블로그](https://taeho.io/)
 - [김종민님 블로그](https://blog.cmiscm.com)
 - [당근 기술 블로그](https://medium.com/daangn)
 - [메르님 블로그](https://blog.naver.com/ranto28)
@@ -39,10 +37,10 @@ heroImage: '../../assets/recommended-info-sources.png'
 - [toss tech](https://toss.tech)
 - [WIX Blog](https://ko.wix.com/blog)
 - [YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr)
+- [아임웹 블로그](https://imweb.me/blog)
+- [천인우님 블로그](https://brunch.co.kr/@lucascheon)
 
----
-
-### 유튜브
+##### 유튜브
 
 - [14F 일사에프](https://www.youtube.com/@14FMBC)
 - [44BITS](https://www.youtube.com/@44BITSTV)

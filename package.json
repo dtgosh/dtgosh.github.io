@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "new-post": "cp -n docs/post-template.md src/content/blog/new-post.md"
   },
   "dependencies": {
     "@astrojs/mdx": "^7.0.7",
